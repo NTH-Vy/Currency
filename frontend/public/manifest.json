@@ -1,0 +1,35 @@
+{
+  "name": "Currency Swap - Next-Gen Liquidity Protocol",
+  "short_name": "Currency Swap",
+  "description": "Near-zero latency currency conversion with institutional-grade risk parameters. Built for the modern global economy.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#02020a",
+  "theme_color": "#6366f1",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["finance", "business"],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Quick Convert",
+      "short_name": "Convert",
+      "description": "Quick currency conversion",
+      "url": "/converter",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}

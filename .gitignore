@@ -1,0 +1,20 @@
+# Node
+**/node_modules/
+**/.next/
+
+# Laravel
+**/vendor/
+**/.env
+**/storage/logs/*
+**/bootstrap/cache/*.php
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
