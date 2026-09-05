@@ -55,9 +55,9 @@ Dự án được thiết kế với giao diện thân thiện, responsive trên
 | [MySQL](https://www.mysql.com/) | Hệ quản trị cơ sở dữ liệu |
 | [REST API](https://restfulapi.net/) | Kiến trúc API chuẩn RESTful |
 | **DevOps** | |
-| [Git/GitHub](https://github.com/) |
-| [Vercel]([https://vercel.com/)](https://vercel.com/vy6/nhvy) |
-| [Render]([https://render.com/](https://dashboard.render.com/web/srv-d917vbo0697c73b95bqg/env))|
+| [Git/GitHub](https://github.com/) | Quản lý phiên bản mã nguồn |
+| [Vercel]([https://vercel.com/)](https://vercel.com/vy6/nhvy) | Nền tảng deploy Frontend |
+| [Render]([https://render.com/](https://dashboard.render.com/web/srv-d917vbo0697c73b95bqg/env)) | Nền tảng deploy Backend|
 
 ---
 
