@@ -56,8 +56,8 @@ Dự án được thiết kế với giao diện thân thiện, responsive trên
 | [REST API](https://restfulapi.net/) | Kiến trúc API chuẩn RESTful |
 | **DevOps** | |
 | [Git/GitHub](https://github.com/) | Quản lý phiên bản mã nguồn |
-| [Vercel]([https://vercel.com/)](https://vercel.com/vy6/nhvy) | Nền tảng deploy Frontend |
-| [Render]([https://render.com/](https://dashboard.render.com/web/srv-d917vbo0697c73b95bqg/env)) | Nền tảng deploy Backend|
+| [Vercel](https://vercel.com/)(https://vercel.com/vy6/nhvy) | Nền tảng deploy Frontend |
+| [Render](https://render.com/)(https://dashboard.render.com/web/srv-d917vbo0697c73b95bqg/env) | Nền tảng deploy Backend|
 
 ---
 
